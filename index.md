@@ -14,8 +14,13 @@ There are many different deployments methods. All with different Pros and Cons.
 With this deployment approach, the current version of the software is terminated. After that the new version is started. 
 
 ##### Pros
+
 * Easy
+
+
 ##### Cons
+
+
 * Long Downtime
 
 #### Rolling
